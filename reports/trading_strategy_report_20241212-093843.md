@@ -1,0 +1,1 @@
+1. **Bitcoin (BTC)**: Entry: $100,500, Exit: $101,500, Stop-Loss: $99,800, Size: 0.1 BTC. 2. **Cardano (ADA)**: Entry: $1.155, Exit: $1.175, Stop-Loss: $1.12, Size: 1,500 ADA. 3. **Solana (SOL)**: Entry: $232.00, Exit: $235.00, Stop-Loss: $229.00, Size: 5 SOL. Risk remains high; watch for market shifts and adjust strategies accordingly.
