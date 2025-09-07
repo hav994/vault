@@ -1,0 +1,3 @@
+Kết quả tìm kiếm không chứa các tin tức tiền điện tử cụ thể từ 12 giờ qua (13:00 UTC ngày 6 tháng 9 năm 2025 đến 01:00 UTC ngày 7 tháng 9 năm 2025). Thông tin hiện có bao gồm các sự kiện thị trường rộng lớn hơn của tháng 9 năm 2025 và các bài báo từ những ngày trước đó, nhưng thiếu các cập nhật tin tức theo thời gian thực và dữ liệu *price action* 12 giờ cần thiết cho phân tích này.
+
+Để cung cấp thông tin chi tiết về tin tức và *price action* được yêu cầu, cần có dữ liệu thị trường hiện tại từ các sàn giao dịch tiền điện tử và các nguồn tin tức bao gồm khung thời gian 12 giờ cụ thể.
