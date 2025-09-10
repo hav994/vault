@@ -1,3 +1,0 @@
-Dựa trên các kết quả tìm kiếm được cung cấp, tôi không có quyền truy cập vào tin tức crypto cụ thể từ 12 giờ qua với dấu thời gian rõ ràng. Các kết quả tìm kiếm hiện có chứa thông tin từ ngày 3 tháng 9 năm 2025 và các ngày trước đó, nhưng thiếu thời gian chính xác cần thiết để xác định tin tức từ khoảng thời gian 12 giờ qua kết thúc vào thời điểm hiện tại (5 tháng 9 năm 2025, 1:00 AM UTC).
-
-Thông tin cần thiết để cung cấp phân tích tin tức crypto 12 giờ và các tín hiệu price action được yêu cầu không có sẵn trong các kết quả tìm kiếm hiện tại.
